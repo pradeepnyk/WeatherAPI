@@ -7,7 +7,11 @@
 
 - Folder structure
 
-![Image of Yaktocat](https://github.com/pradeepnyk/Fitbit_Mobile_App/blob/master/folder_structure.jpg)
+![Image of Yaktocat](https://github.com/pradeepnyk/WeatherAPI/blob/master/Folder_structure.png)
+
+## To use this project:
+Clone: https://github.com/pradeepnyk/WeatherAPI.git
+cd WeatherAPI/
 
 
 
