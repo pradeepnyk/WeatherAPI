@@ -32,6 +32,10 @@ cd WeatherAPI/
 - Possible Improvements
     - Integrating to CI tool
     - Addition of more endpoints and methods
+    
+- Report generation after execution
+    - Extent: WeatherAPI/target/surefire-reports/Extent.html
+    - Surefire HTML: WeatherAPI/target/surefire-reports/index.html
 
 Execution command prompt:
 `mvn clean test`
