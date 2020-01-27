@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "rh": 61,
+            "pod": "n",
+            "lon": 155,
+            "pres": 1020.85,
+            "timezone": "Asia/Tokyo",
+            "ob_time": "2020-01-27 15:24",
+            "country_code": "RU",
+            "clouds": 95,
+            "ts": 1580138654,
+            "solar_rad": 0,
+            "state_code": "64",
+            "city_name": "Shikotan",
+            "wind_spd": 5.54456,
+            "last_ob_time": "2020-01-27T15:00:00",
+            "wind_cdir_full": "north-northwest",
+            "wind_cdir": "NNW",
+            "slp": 1020.6,
+            "vis": 24.1348,
+            "h_angle": -90,
+            "sunset": "08:00",
+            "dni": 0,
+            "dewpt": 277.6,
+            "snow": 0,
+            "uv": 0,
+            "precip": 0,
+            "wind_dir": 330,
+            "sunrise": "21:41",
+            "ghi": 0,
+            "dhi": 0,
+            "aqi": 28,
+            "lat": 33,
+            "weather": {
+                "icon": "c04n",
+                "code": "804",
+                "description": "Overcast clouds"
+            },
+            "datetime": "2020-01-27:15",
+            "temp": 284.8,
+            "station": "RJAA",
+            "elev_angle": -74.19,
+            "app_temp": 284.8
+        }
+    ],
+    "count": 1
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Weather API Automation" parallel="tests" thread-count="5">
+    
+    <listeners>
+		<listener class-name="test.NGTestListener" />
+		<listener class-name="extentReport.ExtentReporterNG"></listener>
+	</listeners>
+	
+	<test name="Get Weather by Latitude and Longitude">
+		<parameter name="key"
+			value="95051637380f418486f66314a3f2c203" />
+		<parameter name="lon" value="155"></parameter>
+		<parameter name="lat" value="33"></parameter>
+		<classes>
+			<class name="test.GetWeatherByLotLong" />
+		</classes>
+	</test>
+
+	<test name="Get Weather by Postcode">
+	    <parameter name="key"
+			value="95051637380f418486f66314a3f2c203" />
+		<parameter name="postcode" value="2113"></parameter>
+		<parameter name="country" value="AU"></parameter>
+		<classes>
+			<class name="test.GetWeatherByPostcode" />
+		</classes>
+	</test>
+
+</suite>

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "rh": 88,
+            "pod": "n",
+            "lon": 151.1298,
+            "pres": 1003.4,
+            "timezone": "Australia/Sydney",
+            "ob_time": "2020-01-27 17:10",
+            "country_code": "AU",
+            "clouds": 52,
+            "ts": 1580145000,
+            "solar_rad": 0,
+            "state_code": "02",
+            "city_name": "North Ryde",
+            "wind_spd": 2.1,
+            "last_ob_time": "2020-01-27T17:10:00",
+            "wind_cdir_full": "northeast",
+            "wind_cdir": "NE",
+            "slp": 1011.8,
+            "vis": 5,
+            "h_angle": -90,
+            "sunset": "09:03",
+            "dni": 0,
+            "dewpt": 20.7,
+            "snow": 0,
+            "uv": 0,
+            "precip": 0,
+            "wind_dir": 35,
+            "sunrise": "19:11",
+            "ghi": 0,
+            "dhi": 0,
+            "aqi": 73,
+            "lat": -33.7912,
+            "weather": {
+                "icon": "c02n",
+                "code": "802",
+                "description": "Scattered clouds"
+            },
+            "datetime": "2020-01-27:17",
+            "temp": 22.8,
+            "station": "E8081",
+            "elev_angle": -23.58,
+            "app_temp": 23.5
+        }
+    ],
+    "count": 1
+}
