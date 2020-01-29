@@ -42,5 +42,8 @@ jobs:
 
       - store_test_results:
           path: target/
+          
+      - store_artifacts:
+          path: target/
           destination: tr1
   
